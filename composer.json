@@ -1,6 +1,5 @@
 {
   "name": "stepanenko3/laravel-moderation",
-  "version": "1.1.0",
   "description": "A simple Content Moderation System for Laravel that allows you to Approve or Reject resources like posts, comments, users, etc.",
   "keywords": [
     "laravel",
