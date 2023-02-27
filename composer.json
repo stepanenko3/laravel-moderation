@@ -24,7 +24,7 @@
     "php": ">=5.4.0"
   },
   "require-dev": {
-    "laravel/laravel": "^9.0"
+    "laravel/laravel": "^9.0 | ^10.0"
   },
   "autoload": {
     "psr-4": {
